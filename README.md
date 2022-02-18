@@ -1,6 +1,7 @@
 # Hi, I'm Jay! 👋
 
 [My Portfolio 💻](https://jas0123uah.github.io/)
+
 I'm a Python/JS developer.🐍  
 
 I have a passion for backend work and finding anything that can be automated. 🤖  
