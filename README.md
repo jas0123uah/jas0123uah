@@ -1,6 +1,5 @@
 # Hi, I'm Jay! 👋
 
-[My Portfolio 💻](https://jas0123uah.github.io/)
 
 I'm a Python/JS developer.🐍  
 
