@@ -3,7 +3,7 @@
 
 I'm a Python/JS developer.🐍  
 
-I have a passion for backend work and finding anything that can be automated. 🤖  
+I love all things data and finding anything that can be automated. 🤖  
 
 Previous experience in bioinformatics and vaccine development. 💉 👨‍💻  
 
