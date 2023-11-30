@@ -1,8 +1,5 @@
 # Hi, I'm Jay! 👋
 
-
-I'm a Python/JS developer.🐍  
-
 I love all things data and finding anything that can be automated. 🤖  
 
 Previous experience in bioinformatics and vaccine development. 💉 👨‍💻  
